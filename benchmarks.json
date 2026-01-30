@@ -1,0 +1,22 @@
+{
+    "seed_b2b_saas": {
+      "burn_range": [60000, 120000],
+      "target_runway_months": 12,
+      "burn_per_employee": 15000
+    },
+    "preseed_b2b_saas": {
+      "burn_range": [30000, 60000],
+      "target_runway_months": 15,
+      "burn_per_employee": 12000
+    },
+    "seed_b2c_marketplace": {
+      "burn_range": [80000, 150000],
+      "target_runway_months": 12,
+      "burn_per_employee": 12000
+    },
+    "preseed_b2c_marketplace": {
+      "burn_range": [40000, 80000],
+      "target_runway_months": 15,
+      "burn_per_employee": 10000
+    }
+  }
